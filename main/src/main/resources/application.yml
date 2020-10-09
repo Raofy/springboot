@@ -1,0 +1,13 @@
+
+person:
+  name: fuyi
+  age: 23
+  address: guangzhou
+  hobby: [music, basketball, running]
+  school:
+    name: zqu
+    address: zhaoqing
+  email: gg@qq.com
+spring:
+  profiles:
+    active: test
